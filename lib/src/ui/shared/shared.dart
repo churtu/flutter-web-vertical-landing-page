@@ -1,0 +1,1 @@
+export 'package:vertical_landing_page/src/ui/shared/custom_app_menu.dart';
